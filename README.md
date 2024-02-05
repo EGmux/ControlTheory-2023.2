@@ -5,7 +5,7 @@
 **A single pdf encompassing all the above topics is provided in:
 build/default/**
 
-**❌ means no notes related to that topic currently**
+**❌ means no notes exists**
 
 **✅ means a note  exists**
 
