@@ -40,3 +40,5 @@ build/default/**
 * Stationary space  error  ❌
   * Root  locus technique  ❌
 * Compensator  project  ❌
+
+##### Notes done with  [typst](https://github.com/typst/typst)
