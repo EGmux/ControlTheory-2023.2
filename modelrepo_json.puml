@@ -1,0 +1,6 @@
+!$allelems = {"modelrepopath": "/home/enzogurgel/forge/projects/ControTheory", "modelrepofile": "./modelrepo_json.puml", "elements": []}
+
+!$allrelations = {"modelrelationrepopath": "/home/enzogurgel/forge/projects/ControTheory", "modelrelationrepofile": "./modelrepo_json.puml", "relations": []}
+
+!$allconnections = {"modelconnectionrepopath": "/home/enzogurgel/forge/projects/ControTheory", "modelconnectionrepofile": "./modelrepo_json.puml", "connections": []}
+
